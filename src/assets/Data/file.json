@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "uploadedBy": "Customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Bauer Logo.jpg",
+    "date": "28-07-2022",
+    "size": "3.2 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 2,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Company Profile.pdf",
+    "date": "15-08-2022",
+    "size": "1.2 MB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 3,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Team Photo.png",
+    "date": "01-09-2022",
+    "size": "620 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 4,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Invoice_2022.docx",
+    "date": "20-09-2022",
+    "size": "250 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 5,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Bauer Logo.jpg",
+    "date": "28-07-2022",
+    "size": "3.2 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 6,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Company Profile.pdf",
+    "date": "15-08-2022",
+    "size": "1.2 MB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 7,
+    "uploadedBy": "Customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Team Photo.png",
+    "date": "01-09-2022",
+    "size": "620 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 8,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Invoice_2022.docx",
+    "date": "20-09-2022",
+    "size": "250 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 9,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Bauer Logo.jpg",
+    "date": "28-07-2022",
+    "size": "3.2 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 10,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Company Profile.pdf",
+    "date": "15-08-2022",
+    "size": "1.2 MB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 11,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Team Photo.png",
+    "date": "01-09-2022",
+    "size": "620 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 12,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Invoice_2022.docx",
+    "date": "20-09-2022",
+    "size": "250 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 13,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Company Profile.pdf",
+    "date": "15-08-2022",
+    "size": "1.2 MB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 14,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Team Photo.png",
+    "date": "01-09-2022",
+    "size": "620 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 15,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Invoice_2022.docx",
+    "date": "20-09-2022",
+    "size": "250 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 16,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Bauer Logo.jpg",
+    "date": "28-07-2022",
+    "size": "3.2 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 17,
+    "uploadedBy": "customer",
+    "owner": "Anders Lumbye",
+    "fileName": "Company Profile.pdf",
+    "date": "15-08-2022",
+    "size": "1.2 MB",
+    "thumbnail": "https://placehold.co/220x144"
+  },
+  {
+    "id": 18,
+    "uploadedBy": "files",
+    "owner": "Anders Lumbye",
+    "fileName": "Team Photo.png",
+    "date": "01-09-2022",
+    "size": "620 KB",
+    "thumbnail": "https://placehold.co/220x144"
+  }
+]

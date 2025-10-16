@@ -1,0 +1,175 @@
+[
+  {
+    "label": "Dashboard",
+    "columns": [{ "title": "Dashboard" }]
+  },
+  {
+    "label": "Products",
+    "columns": [
+      {
+        "title": "Products",
+        "options": [
+          { "name": "Add product" },
+          { "name": "Edit product" },
+          { "name": "Duplicate product" },
+          { "name": "Delete product" }
+        ]
+      },
+      {
+        "title": "Categories",
+        "options": [
+          { "name": "Add category" },
+          { "name": "Edit category" },
+          { "name": "Duplicate category" },
+          { "name": "Delete category" }
+        ]
+      },
+      {
+        "title": "Prices",
+        "options": [
+          { "name": "Add price" },
+          { "name": "Edit price" },
+          { "name": "Duplicate price" },
+          { "name": "Delete price" }
+        ]
+      },
+      {
+        "title": "SKUs",
+        "options": [
+          { "name": "Add SKU" },
+          { "name": "Edit SKU" },
+          { "name": "Duplicate SKU" },
+          { "name": "Delete SKU" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Orders",
+    "columns": [
+      {
+        "title": "Orders"
+      }
+    ]
+  },
+  {
+    "label": "Factories",
+    "columns": [
+      {
+        "title": "Factories",
+        "options": [
+          { "name": "Add Factory" },
+          { "name": "Edit Factory" },
+          { "name": "Duplicate Factory" },
+          { "name": "Delete Factory" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customers",
+    "columns": [
+      {
+        "title": "Customers"
+      }
+    ]
+  },
+  {
+    "label": "File Library",
+    "columns": [
+      {
+        "title": "Files",
+        "options": [
+          { "name": "Add File" },
+          { "name": "Download File" },
+          { "name": "Delete File" }
+        ]
+      },
+      {
+        "title": "Customer Uploads",
+        "options": [{ "name": "Download File" }, { "name": "Delete File" }]
+      }
+    ]
+  },
+  {
+    "label": "Templates",
+    "columns": [
+      {
+        "title": "Emails",
+        "options": [
+          { "name": "Add Email Template" },
+          { "name": "Edit Email Template" },
+          { "name": "Duplicate Email Template" },
+          { "name": "Delete Email Template" }
+        ]
+      },
+      {
+        "title": "Yearly Planner",
+        "options": [
+          { "name": "Add Yearly Planner" },
+          { "name": "Edit Yearly Planner" },
+          { "name": "Duplicate Yearly Planner" },
+          { "name": "Delete Yearly Planner" }
+        ]
+      },
+      {
+        "title": "Yearly Planner Events",
+        "options": [
+          { "name": "Add Events" },
+          { "name": "Edit Events" },
+          { "name": "Duplicate Events" },
+          { "name": "Delete Events" }
+        ]
+      },
+      {
+        "title": "Invoices",
+        "options": [
+          { "name": "Add Invoice Template" },
+          { "name": "Edit Invoice Template" },
+          { "name": "Duplicate Invoice Template" },
+          { "name": "Delete Invoice Template" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Settings",
+    "columns": [
+      {
+        "title": "Roles",
+        "options": [
+          { "name": "Add role" },
+          { "name": "Edit role" },
+          { "name": "Duplicate role" },
+          { "name": "Delete role" }
+        ]
+      },
+      {
+        "title": "Users",
+        "options": [
+          { "name": "Add User" },
+          { "name": "Edit User" },
+          { "name": "Duplicate User" },
+          { "name": "Delete User" }
+        ]
+      },
+      {
+        "title": "Merchant",
+        "options": [
+          { "name": "Add Merchant" },
+          { "name": "Edit Merchant" },
+          { "name": "Duplicate Merchant" },
+          { "name": "Delete Merchant" }
+        ]
+      },
+      {
+        "title": "Skins",
+        "options": [{ "name": "Placeholder" }]
+      },
+      {
+        "title": "Developer",
+        "options": [{ "name": "Placeholder" }]
+      }
+    ]
+  }
+]

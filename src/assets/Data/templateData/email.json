@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": false
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": false
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  },
+  {
+    "title": "Standard Reminder",
+    "subject": "Got a New Event",
+    "type": "Event",
+    "active": true
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "serialNo": "123456",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "High-quality hockey jersey designed for performance and comfort. Lightweight, durable fabric suitable for training and matches.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123457",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Classic Bauer 3000 jersey with breathable material and reinforced stitching for durability.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123458",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Authentic Bauer jersey in premium fabric, ideal for professionals and enthusiasts.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123459",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Durable jersey built for all weather play, comes in multiple sizes.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123460",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "High-performance hockey gear trusted by professionals worldwide.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123461",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Lightweight hockey jersey with ergonomic fit for maximum flexibility.",
+    "image": "https://placehold.co/400x600",
+    "published": false
+  },
+  {
+    "serialNo": "123462",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Premium stitched Bauer jersey designed for long-lasting use.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123463",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Breathable, high-performance jersey perfect for tournaments.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123464",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Lightweight hockey jersey with sweat-wicking technology.",
+    "image": "https://placehold.co/400x600",
+    "published": true
+  },
+  {
+    "serialNo": "123465",
+    "name": "3000 Series Jersey",
+    "sku": "Bauer-3000-Jersey",
+    "category": "Hockey",
+    "factory": "Bauer3000 Series Jersey",
+    "description": "Trusted Bauer hockey jersey with professional-grade finish.",
+    "image": "https://placehold.co/400x600",
+    "published": false
+  }
+]
