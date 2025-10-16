@@ -87,8 +87,10 @@ If you’d like to suggest improvements or fix bugs:
 **Syed Ali Ahmad Rizvi**
 
 Front-End Developer — Vue.js | React | Tailwind CSS
+
 LinkdIn: ('https://www.linkedin.com/in/syedaliahmadrizvi88')
 
 **Design By Gulzar Yousaf**
-UI/UX Designer AND Front-End Dev
+UI/UX Designer | Front-End Dev
+
 LinkdIn: ('https://www.linkedin.com/in/gulzar-yousaf-b337bb28/')
