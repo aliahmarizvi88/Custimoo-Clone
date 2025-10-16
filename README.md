@@ -88,9 +88,9 @@ If you’d like to suggest improvements or fix bugs:
 
 Front-End Developer — Vue.js | React | Tailwind CSS
 
-[LinkdIn]('https://www.linkedin.com/in/syedaliahmadrizvi88')
+[LinkdIn] ('https://www.linkedin.com/in/syedaliahmadrizvi88')
 
 **Design By Gulzar Yousaf**
 UI/UX Designer | Front-End Dev
 
-[LinkdIn]('https://www.linkedin.com/in/gulzar-yousaf-b337bb28/')
+[LinkdIn] ('https://www.linkedin.com/in/gulzar-yousaf-b337bb28/')
